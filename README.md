@@ -1,1 +1,2 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+## Livro da disciplina PPGCS012 - CIÊNCIA SOCIAL COMPUTACIONAL - T01 (2021.2 - 5T2345)
+
